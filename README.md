@@ -6,3 +6,5 @@ connects static model signals..
 
 ## FMU
 loads dynamically specified FMUs
+
+## Time synchronisation
